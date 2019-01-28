@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1033145820491",
+    "firebase_url": "https://daily-shopping-list-b.firebaseio.com",
+    "project_id": "daily-shopping-list-b",
+    "storage_bucket": "daily-shopping-list-b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033145820491:android:03f844a53cfc23dc",
+        "android_client_info": {
+          "package_name": "yazdaniscodelab.dailyshoppinglist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033145820491-r0fa01b677cm16c74n5cckjj37im1hhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCplO1nHWHMcrFeV5aL7xUrDjN_sS4hNPE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
